@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+
+#your_sketch_text{
+    font-size: 22px;
+}
+
+#confidence_text{
+    font-size: 22px;
+}
+
+#score{
+    font-size: 25px;
+    margin-left: 25px;
+    float: left;
+}
+
+#timer{
+    font-size: 25px;
+    float:right;
+    margin-right: 25px;
+}
+
+#sketch_to_be_drawn_text{
+    color: red;
+    font-size: 45px;
+}
